@@ -7,6 +7,13 @@ config();
 const seedUsers = [
   // Female Users
   {
+    email: "sasikumar@gmail.com",
+    fullName: "sasi kumar",
+    password: "123456",
+    profilePic: "",
+  },
+
+  {
     email: "emma.thompson@example.com",
     fullName: "Emma Thompson",
     password: "123456",
